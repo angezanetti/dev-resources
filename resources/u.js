@@ -269,6 +269,17 @@ module.exports = [
         icon: 'https://usehooks.com/favicon.ico',
     },
     {
+        name: 'UserBooster',
+        categories: ['Indie Hacking/Marketing'],
+        description:
+            'UserBooster is a Notion template that helps startups to get their first users and build their launch strategy',
+        links: {
+            [website]: 'https://userbooster.co',
+            [twitter]: 'https://twitter.com/userbooster_',
+        },
+        icon: 'https://userbooster.co/images/home/share.jpg',
+    },
+    {
         name: 'UXfolio',
         categories: [toolsAndUtilities.general],
         description:
